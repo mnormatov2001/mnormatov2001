@@ -63,6 +63,6 @@ I am a Backend C# .Net Developer.
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mnormatov2001&theme=one-dark-pro)](https://git.io/streak-stats)
-
+<!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mnormatov2001&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
-
+-->
