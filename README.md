@@ -29,8 +29,8 @@
 ---
 
 ### :man_technologist: About Me :
-I am a Backend C# .Net Developer from Russia.
-* :telescope: I’m working as a Software Engineer and contributing to backend and frontend for building web applications.
+I am a Backend C# .Net Developer.
+* :telescope: I’m working as a Software Engineer and contributing to backend for building web applications.
 
 * :seedling: Learning the principles of writing enterprise applications.
 
