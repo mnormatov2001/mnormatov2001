@@ -9,6 +9,7 @@
 <!-- END HEADER GIF -->
 
 <!-- LINKS -->
+<!--
 <div id="badges"  align="center">
   <a href="https://t.me/muza_norm">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -16,10 +17,11 @@
   <a href="https://t.me/muza_norm">
     <img src="https://img.shields.io/badge/telegram-blue?logo=telegram&style=for-the-badge" alt="Telegram Badge"/>
   </a>
-<!--   <a>
+  <a>
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>  -->
+  </a>
 </div>
+-->
 <!-- END LINKS -->
 
 <!-- PROFILE VIEWS COUNTER -->
